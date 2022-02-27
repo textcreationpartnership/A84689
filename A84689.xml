@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of His Excellency the Lord Generall Fairfax. Concerning the supply of bedding required from the City of London for the lodging of the Army in voyd houses to prevent the quartering of souldiers upon any the inhabitants. Together with a draught of his warrants to the aldermen of the several wards for that purpose.</title>
+            <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84689</idno>
+            <idno type="STC">Wing F150</idno>
+            <idno type="STC">Thomason E475_40</idno>
+            <idno type="STC">ESTC R204444</idno>
+            <idno type="EEBO-CITATION">99863934</idno>
+            <idno type="PROQUEST">99863934</idno>
+            <idno type="VID">116152</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84689)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116152)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E475[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of His Excellency the Lord Generall Fairfax. Concerning the supply of bedding required from the City of London for the lodging of the Army in voyd houses to prevent the quartering of souldiers upon any the inhabitants. Together with a draught of his warrants to the aldermen of the several wards for that purpose.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Macock, for John Partridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The declaration is dated on A3r: the eighth of December, 1648.</note>
+                  <note>Annotation on Thomason copy: "Dec: 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Barracks and quarters --  Early works to 1800.</term>
+               <term>Soldiers --  Billeting --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116152:1" rendition="simple:additions"/>
+            <p>A DECLARATION Of His <hi>Excellency the Lord Generall Fairfax.</hi>
+            </p>
+            <p>Concerning the Supply of Bedding Required from the City of London For the lodging of the <hi>Army</hi> in voyd houſes to prevent the Quartering of Souldiers upon any the Inhabitants.</p>
+            <p>Together with a Draught of his Warrants to the Aldermen of the ſeveral Wards for that purpoſe.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Macock,</hi> for JOHN PARTRIDGE. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb n="3" facs="tcp:116152:2"/>
+            <head>A DECLARATION OF HIS EXCELLENCY THE Lord General Fairfax, Concerning the ſupply of Bedding required from the City of LONDON, for the lodging of the Army in void houſes, to pre<g ref="char:EOLhyphen"/>vent the Quartering of Souldiers upon any the Inhabitants.</head>
+            <head>PROCLAMATION.</head>
+            <p>UPon the drawing up of the Army to this place, for the better avoiding the trouble and inconvenien<g ref="char:EOLhyphen"/>cies
+<pb n="4" facs="tcp:116152:3"/>to the City and Suburbs of LONDON, or the In<g ref="char:EOLhyphen"/>habitants thereof, which might happen by the quartering of Souldiers in private mens houſes, it was the deſire and Reſolution of my ſelf, and my Officers, to lodg the Soul<g ref="char:EOLhyphen"/>diers in great and void houſes; and to the end they might be accommodated for that purpoſe, (in regard, that at this ſeaſon Souldiers cannot hold our to lodg continual<g ref="char:EOLhyphen"/>ly upon bare floors,) I writ to the Lord Major, Alder<g ref="char:EOLhyphen"/>men and Common Councel of the City of LONDON, deſiring they would take ſome courſe for a ſpeedy ſup<g ref="char:EOLhyphen"/>ply of Bedding for the Souldiery: but inſtead of any ſatisfaction therein, after ſome delay, I have received on<g ref="char:EOLhyphen"/>ly an excuſatory Anſwer.</p>
+            <p>The Souldiers and moſt of the Officers having layn now almoſt a week upon cold floors, and health not per<g ref="char:EOLhyphen"/>mitting them to endure ſuch hardſhip for continuance, out of the ſame tender care, to avoid trouble or inconve<g ref="char:EOLhyphen"/>nience to the inhabitants, or any diſcontents or differences which might ariſe between them and the Souldiers by the quartering of them in private houſes, I have (with the advice of a Councel of War) thought fit to require a neceſſary ſupply of Bedding, by Warrants directed im<g ref="char:EOLhyphen"/>mediatly to the reſpective Aldermen of the ſeveral Wards, the Copy whereof is herewith printed and publiſhed; and (with the ſame advice) I do hereby fur<g ref="char:EOLhyphen"/>ther declare, That in caſe any failer ſhall be in the bring<g ref="char:EOLhyphen"/>ing in, by the time limited, ſuch proportions of Bedding, as, according to the ſaid Warrants, are charged upon the ſeveral Wards, and ſhall be apportioned upon the ſeve<g ref="char:EOLhyphen"/>ral Diviſions and Inhabitants of the ſame, I ſhall be neceſſitated to ſend Souldiers, either to fetch ſuch pro<g ref="char:EOLhyphen"/>portions of Bedding from them that fail, or elſe to quar<g ref="char:EOLhyphen"/>ter
+<pb n="5" facs="tcp:116152:3"/>with them; and muſt take ſuch courſe againſt either thoſe Aldermen, and other Officers in the City, who ſhall neglect to rare and bring in the proportions requi<g ref="char:EOLhyphen"/>red from their reſpective Wards &amp; Diviſions, or againſt thoſe Inhabitants who ſhall refuſe to ſupply the pro<g ref="char:EOLhyphen"/>portions rated upon them, as ſhall be fit to uſe towards ſuch obſtinate oppoſers of that orderly ſupply, which is ſo neceſſary for the eaſe and quiet of the City, and for the ſubſiſtance of the Army.</p>
+            <closer>
+               <dateline>Given under my Hand and Seal at my Quarter in <hi>Weſtminſter</hi> 
+                  <date>the eighth of <hi>December,</hi> 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="warrant">
+            <pb n="6" facs="tcp:116152:4" rendition="simple:additions"/>
+            <head>The Copy of the Warrant.</head>
+            <p>WHereas for the avoyding of the inconve<g ref="char:EOLhyphen"/>niencies of Quartering Souldiers upon private mens houſes, it is intended and deſired, that the Army ſhall be lodged in great and voyd houſes, while it ſhall continue in or a<g ref="char:EOLhyphen"/>bout the City of LONDON, to the end therefore the Soldiery may be accommodated to lodge in ſuch hou<g ref="char:EOLhyphen"/>ſes, which at this ſeaſon of the year, without convenient Bedding, they cannot bear; Theſe are therefore to will and require you, that upon receipt hereof you do forth<g ref="char:EOLhyphen"/>with cauſe the proportion of <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> hundred and <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> Feather Beds, or Flock Beds, with one Bolſter, one pair of coarſe Sheets, and two Blankets, or one Blanket and one Coverlet for each Bed, ſufficient for the lodging of two men in a Bed, to be equally apportioned upon the ſeveral Diviſions within your Ward, and upon the ſeve<g ref="char:EOLhyphen"/>ral Houſholders that are of ability to furniſh the ſame within the ſaid ſeveral Diviſions; and the ſaid Beds, with the appurtenances aforeſaid, to be brought to <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> by S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>turday next at noon, being the Ninth of this inſtant <hi>December,</hi> and there to be delivered unto the hands and cuſtody of <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> for the ſupply of the Regiment under the Command of Colo<g ref="char:EOLhyphen"/>nel <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> and the ſaid <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> is to give receipt or receipts
+<pb n="7" facs="tcp:116152:4"/>under his hand for what Bedding he ſhall receive, thereupon expreſſing from what Ward or Diviſions the ſame do come in, and upon the removall of the Army, or the ſaid Regiment, from about the City, ſuch Bedding ſhall be reſtored to the re<g ref="char:EOLhyphen"/>ſpective Inhabitants, Diviſions or Wards from which it was had; and there ſhall be care taken to prevent, as much as may be, any ſpoil or imbezilement thereof; and in caſe, after ſuch delivery, any part thereof ſhall be loſt or ſpoiled, ſo as to be made uſeleſs, reaſonable ſatisfaction ſhall be given or aſſigned for the ſame out of the Treaſury of the Army. And you are on the ſame day by eight of the Clock in the morning to return to my ſelf, or my Se<g ref="char:EOLhyphen"/>cretary, in writing under your hand, an Account of your proceeding upon this Warrant, with a liſt of the pro<g ref="char:EOLhyphen"/>portions charged upon the ſeveral Diviſions of your Ward, and upon the ſeveral Houſholders in each Diviſi<g ref="char:EOLhyphen"/>on, that if any failer be, it may be known where it reſts. Hereof you are not to fail, as you will anſwer the contra<g ref="char:EOLhyphen"/>ry at your peril: and this ſhall be your Warrant.</p>
+            <closer>
+               <dateline>Given under my Hand and Seal at my Quarter in <hi>Weſtminſter</hi> 
+                  <date>the ſeventh day of <hi>December,</hi> 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>To the Alderman of the Ward of <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>
+            </trailer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
